@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void str(View view) {
-        mp.start();
+        mp.start();//start
     }
 
     public void pau(View view) {
